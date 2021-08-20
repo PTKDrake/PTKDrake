@@ -1,16 +1,13 @@
-### Hi there 👋
+<div style="text-align:center">
+    <h2>About me</h2>
 
-<!--
-**PTKDrake/PTKDrake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm PTKDrake, owner of MightyEmpire Server.<br>
+Contact: admin@mcmevn.com.<br></p>
+<a href="https://github.com/PTKDrake">
+<img src="https://github-readme-stats.vercel.app/api?username=PTKDrake&theme=dark&show_icons=true"  alt="Github stats"/>
+</a>
+<a href="https://github.com/PTKDrake">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTKDrake&theme=dark&show_icons=true&layout=compact"  alt="Github most use language"/>
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
